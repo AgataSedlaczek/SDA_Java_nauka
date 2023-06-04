@@ -27,5 +27,18 @@ public class warunkowe{
         else {
             System.out.println("błędny wiek");
         }
+        int wiek2=18;
+        if (wiek2 <18 && wiek2> 0) {
+            System.out.println("Nieletni");
+        }
+        else if (wiek2>=18) {
+            System.out.println("Pełnoletni");
+        }
+        else if (wiek2>=65 && wiek2 <100) {
+            System.out.println("Senior");
+        }
+        else {
+            System.out.println("błędny wiek");
+        }
     }
 }
