@@ -8,7 +8,7 @@ public class warunkowe{
         }
 
  */
-        if (8 >= 7 && 8 <10){
+       /* if (8 >= 7 && 8 <10){
             System.out.println("Zmienna bądź równa 9");}
         if (8>7 || 8<6){
             System.out.println("zmienna jest wieksza od 7 lub mniejsza niz 6");
@@ -39,6 +39,22 @@ public class warunkowe{
         }
         else {
             System.out.println("błędny wiek");
+        }*/
+
+        int day=5;
+        switch (day){
+            case 0:
+                System.out.println("?");
+            break;
+            case 6:
+            case 7:
+                System.out.println("weekend");
+            break;
+            case 5:
+                System.out.println("piąteczek");
+            default:
+                System.out.println("praca");
+
         }
     }
 }
