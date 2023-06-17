@@ -1,11 +1,12 @@
 public class zadanie9 {
     public static void main(String[] args){
-        int a = 3;
-        System.out.print(a + " ");
-        while (a >= 1){
-            a = (a-1)*a ;
-            System.out.print(a + " ");
+        int n = 3;
+        int result = 1;
 
+        while (n >= 1) {
+            result = result * n;
+            n--;
         }
+    System.out.print("wynik: " + result);
     }
 }
