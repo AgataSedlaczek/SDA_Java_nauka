@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args){
 
-        System.out.println("Hello World ");  //sout skrót do wypisywania informacji
+        /*System.out.println("Hello World ");  //sout skrót do wypisywania informacji
         int age = 20; //int liczby całkowite
         int age2 = 10;
         int result = age+age2; //suma zmiennych, odejmowanie, dzielnie itd tak samo, wszelkie działania mat.
@@ -38,7 +38,7 @@ public class Main {
         boolean res=!flag2;// negacja
         System.out.println(res);
         */
-        a+=2;// prosty zapis a=a+2;
+        /*a+=2;// prosty zapis a=a+2;
         a-=2;//prosty zapis a=a-2;
         a*=2;// prosty zapis a=a*2;
         System.out.println(a);
@@ -61,7 +61,10 @@ public class Main {
         System.out.print("Tekst"+"\n"); // "\n" działa jako polecienie przejścia do nowej lini
         System.out.println("Dodatni");
         System.out.printf("My cat, %s, is %d years old.%n", "Filemon", 8); //podmienia litery z znakiem % np: %s na wartość która jest na końcu lini i ma odpowiedni typ
+*/
 
+        Student s1 = new Student( "Jan", "Kowalski", 12.6, true, "123354");
+        System.out.println(s1.getLastName() + " " + s1.getFirstName());
 
 
     }
