@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="009a3b5e-1b06-41f5-acdf-8296cec3b722" name="Changes" comment="Java">
+      <change afterPath="$PROJECT_DIR$/src/zadanie7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadanie8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadanie9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/zadanie6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zadanie6.java" afterDir="false" />
     </list>
@@ -54,7 +57,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Marek/Desktop/tester/JS Fundamentals&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.zadanie6">
+  <component name="RunManager">
     <configuration name="zadanie5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zadanie5" />
       <module name="SDA_Java_nauka" />
@@ -69,8 +72,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="zadanie7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadanie7" />
+      <module name="SDA_Java_nauka" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.zadanie7" />
         <item itemvalue="Application.zadanie6" />
         <item itemvalue="Application.zadanie5" />
       </list>
@@ -148,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686998893620</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Java">
+      <created>1687000394775</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1687000394775</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
